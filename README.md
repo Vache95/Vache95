@@ -3,12 +3,15 @@
 I'm Vache a Frontend Web Developer from Armenia
 <br/>
 <br/>
-- 📫 How to reach me **vachevirabyan1995@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <span> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></span> 
- <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></span>
+- 📫 How to reach me  **vachevirabyan1995@gmail.com**
+
+### Technologies
+
  <span> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </span>
  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </span> 
- <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </span> </p>
+ <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></span>
+ <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </span> 
+ <span> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></span> 
+
+
