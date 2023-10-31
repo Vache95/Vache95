@@ -1,6 +1,7 @@
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlxdmg4aWJoNWU3MWh3dTRndm9vZjB2bHdxMG04d2I1YzZ1aHdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Work From Home GIF by Domme Space" style="width: 1100px; height: 500px; opacity: 0;">
 <h1 align="center">Hi 👋, I'm Vache Virabyan</h1>
 <h3 align="center">A passionate frontend developer from Armenia</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlxdmg4aWJoNWU3MWh3dTRndm9vZjB2bHdxMG04d2I1YzZ1aHdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Work From Home GIF by Domme Space" style="width: 100%; height: 100%; opacity: 0;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vache95&label=Profile%20views&color=0e75b6&style=flat" alt="vache95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vache95" alt="vache95" /></a> </p>
